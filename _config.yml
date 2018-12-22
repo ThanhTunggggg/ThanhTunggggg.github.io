@@ -1,0 +1,3 @@
+name: Thanh Tung
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
